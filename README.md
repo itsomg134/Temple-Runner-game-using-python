@@ -42,6 +42,9 @@ Temple Runner is a fast-paced endless runner game set in an ancient temple. Cont
 
 ##  Screenshots
 
+<img width="1920" height="1080" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/8a529b0c-a2bb-45be-b01e-a7c72e975070" />
+<img width="1920" height="1080" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/a0cc0b1a-b9e7-469e-af22-4e075daa11ee" />
+
 
 ##  Installation
 
